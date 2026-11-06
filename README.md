@@ -1,2 +1,3 @@
-# rebecca-docs
-Rebecca — recherche dans mes documents
+# Rebecca
+
+Recherche dans mes documents. Site : https://victorienpepin-design.github.io/rebecca/
